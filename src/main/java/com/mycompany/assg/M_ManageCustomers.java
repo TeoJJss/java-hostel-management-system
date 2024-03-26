@@ -4,7 +4,6 @@
  */
 package com.mycompany.assg;
 
-import com.mycompany.assg.Customer;
 import javax.swing.table.DefaultTableModel;
 
 public class M_ManageCustomers extends javax.swing.JFrame {

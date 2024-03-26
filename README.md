@@ -26,3 +26,7 @@ Compile this project using Java Maven.
 `col 3`: datetime of service  
 `col 4`: feedback  
 `col 5`: payment  
+
+<h2>Credits</h2>
+- <a href="https://github.com/TeoJJss">Teo Jun Jia</a><br> 
+- <a href="https://github.com/omeowrice">Ting Zi Qing</a>
