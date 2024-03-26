@@ -1,4 +1,8 @@
-<h2>Txt file guide</h2>
+<h1>Java Hostel Management System</h1>  
+
+Compile this project using Java Maven.  
+
+<h2>Text files guide</h2>
 
 **auth.txt** : Storing all the end user credentials  
 `col 1`: username (unique)  
